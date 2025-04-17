@@ -173,9 +173,11 @@ DELETE /api/product/{id}
 Desarrollado por Alejandro para pruebas y prácticas con .NET y JWT.  
 Contáctame si querés extender este backend o integrarlo con frontend React/Angular.
 
+## Dev: Alejandro Daniel Di Stefano  - FullStack Developer
+[GitHub](https://github.com/Drako01)
 ---
 
 ## 📃 Licencia
 
-MIT
+Apache-2.0 license 
 ```
